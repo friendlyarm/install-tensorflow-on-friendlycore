@@ -25,7 +25,7 @@ cd install-tensorflow-on-friendlycore
 ./02-install-tensorflow.sh
 ```
 
-### Step4 - Check tensorflow 2.4.0 installtion
+### Step4 - Check tensorflow 2.4.0 installation
 ```
 pi@NanoPC-T4:~$ python3
 Python 3.7.9 (default, Dec 30 2020, 03:43:55)
