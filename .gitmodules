@@ -1,0 +1,4 @@
+[submodule "examples/models"]
+	path = examples/models
+	url = https://github.com/tensorflow/models.git
+	branch = r1.10.0
